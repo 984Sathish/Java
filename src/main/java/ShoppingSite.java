@@ -1,4 +1,7 @@
-package Page;
+import Page.GodrejWashingMaching;
+import Page.NokiaBasicPhone;
+import Page.SamsungSmartMobile;
+import Page.SamsungWashingMachine;
 
 public class ShoppingSite {
 	
