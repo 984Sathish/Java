@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+		
+		<!-- Stream in java -->
+		<class name="Stream.StreamConcat"/>
+      	<class name="Stream.Map"/>
+      	<class name="Stream.JavaStream"/>
+       	<class name="Stream.Collector"/>
+       	<class name="Stream.Limit"/>
+      	<class name="Stream.Filter"/>
+      	<class name="Stream.StreamDistinct"/>
+      
+      	<!-- Java collection -->
+      	<class name="List.Array"/>
+      	<class name="List.StackList"/>
+      	<class name="List.Linked"/>
+      	<class name="Set.Linked_HashSet"/>
+      	<class name="List.VectorList"/>
+      	<class name="Deque.Array_Deque"/>
+      	<class name="Queue.Priority_Queue"/>
+      	<class name="Set.Hash_Set"/>
+      	<class name="SortedSet.Tree_Set"/>
+      
+      	<!-- Interface and Abstract -->
+      	<class name="InterfaceAbstractRunFile.ShoppingSite"/>
+    
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

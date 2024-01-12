@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T10:58:34 IST" name="Suite" finished-at="2024-01-12T10:58:34 IST" duration-ms="393">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T10:58:34 IST" name="Test" finished-at="2024-01-12T10:58:34 IST" duration-ms="393">
+      <class name="Deque.Array_Deque">
+        <test-method signature="arrayDeque()[pri:0, instance:Deque.Array_Deque@52b1beb6]" started-at="2024-01-12T10:58:34 IST" name="arrayDeque" finished-at="2024-01-12T10:58:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayDeque -->
+      </class> <!-- Deque.Array_Deque -->
+      <class name="SortedSet.Tree_Set">
+        <test-method signature="treeSet()[pri:0, instance:SortedSet.Tree_Set@783a467b]" started-at="2024-01-12T10:58:34 IST" name="treeSet" finished-at="2024-01-12T10:58:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- treeSet -->
+      </class> <!-- SortedSet.Tree_Set -->
+      <class name="Stream.Filter">
+        <test-method signature="filter()[pri:0, instance:Stream.Filter@13fd2ccd]" started-at="2024-01-12T10:58:34 IST" name="filter" finished-at="2024-01-12T10:58:34 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter -->
+      </class> <!-- Stream.Filter -->
+      <class name="List.VectorList">
+        <test-method signature="vectorList()[pri:0, instance:List.VectorList@53aac487]" started-at="2024-01-12T10:58:34 IST" name="vectorList" finished-at="2024-01-12T10:58:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vectorList -->
+      </class> <!-- List.VectorList -->
+      <class name="Set.Hash_Set">
+        <test-method signature="hashSet()[pri:0, instance:Set.Hash_Set@7db12bb6]" started-at="2024-01-12T10:58:34 IST" name="hashSet" finished-at="2024-01-12T10:58:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashSet -->
+      </class> <!-- Set.Hash_Set -->
+      <class name="Queue.Priority_Queue">
+        <test-method signature="priorityQueue()[pri:0, instance:Queue.Priority_Queue@273e7444]" started-at="2024-01-12T10:58:34 IST" name="priorityQueue" finished-at="2024-01-12T10:58:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priorityQueue -->
+      </class> <!-- Queue.Priority_Queue -->
+      <class name="Stream.Map">
+        <test-method signature="mapStream()[pri:0, instance:Stream.Map@59505b48]" started-at="2024-01-12T10:58:34 IST" name="mapStream" finished-at="2024-01-12T10:58:34 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapStream -->
+      </class> <!-- Stream.Map -->
+      <class name="List.Array">
+        <test-method signature="arrayList()[pri:0, instance:List.Array@506ae4d4]" started-at="2024-01-12T10:58:34 IST" name="arrayList" finished-at="2024-01-12T10:58:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayList -->
+      </class> <!-- List.Array -->
+      <class name="Stream.Limit">
+        <test-method signature="limit()[pri:0, instance:Stream.Limit@48aca48b]" started-at="2024-01-12T10:58:34 IST" name="limit" finished-at="2024-01-12T10:58:34 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- limit -->
+      </class> <!-- Stream.Limit -->
+      <class name="InterfaceAbstractRunFile.ShoppingSite">
+        <test-method signature="getProduct()[pri:0, instance:InterfaceAbstractRunFile.ShoppingSite@272113c4]" started-at="2024-01-12T10:58:34 IST" name="getProduct" finished-at="2024-01-12T10:58:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProduct -->
+      </class> <!-- InterfaceAbstractRunFile.ShoppingSite -->
+      <class name="Stream.StreamDistinct">
+        <test-method signature="streamDistinct()[pri:0, instance:Stream.StreamDistinct@b9b00e0]" started-at="2024-01-12T10:58:34 IST" name="streamDistinct" finished-at="2024-01-12T10:58:34 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamDistinct -->
+      </class> <!-- Stream.StreamDistinct -->
+      <class name="Stream.StreamConcat">
+        <test-method signature="streamConcat()[pri:0, instance:Stream.StreamConcat@27462a88]" started-at="2024-01-12T10:58:34 IST" name="streamConcat" finished-at="2024-01-12T10:58:34 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamConcat -->
+      </class> <!-- Stream.StreamConcat -->
+      <class name="Set.Linked_HashSet">
+        <test-method signature="linkedHashSet()[pri:0, instance:Set.Linked_HashSet@54e1c68b]" started-at="2024-01-12T10:58:34 IST" name="linkedHashSet" finished-at="2024-01-12T10:58:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedHashSet -->
+      </class> <!-- Set.Linked_HashSet -->
+      <class name="List.StackList">
+        <test-method signature="stackList()[pri:0, instance:List.StackList@7d4f9aae]" started-at="2024-01-12T10:58:34 IST" name="stackList" finished-at="2024-01-12T10:58:34 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stackList -->
+      </class> <!-- List.StackList -->
+      <class name="Stream.Collector">
+        <test-method signature="collectList()[pri:0, instance:Stream.Collector@6bd61f98]" started-at="2024-01-12T10:58:34 IST" name="collectList" finished-at="2024-01-12T10:58:34 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collectList -->
+      </class> <!-- Stream.Collector -->
+      <class name="Stream.JavaStream">
+        <test-method signature="stream()[pri:0, instance:Stream.JavaStream@4efac082]" started-at="2024-01-12T10:58:34 IST" name="stream" finished-at="2024-01-12T10:58:34 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stream -->
+      </class> <!-- Stream.JavaStream -->
+      <class name="List.Linked">
+        <test-method signature="linkedList()[pri:0, instance:List.Linked@72e5a8e]" started-at="2024-01-12T10:58:34 IST" name="linkedList" finished-at="2024-01-12T10:58:34 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedList -->
+      </class> <!-- List.Linked -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
